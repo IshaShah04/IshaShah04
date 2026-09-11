@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Python",            "value": 90 },
+    { "label": "AI Automation / n8n", "value": 88 },
+    { "label": "Deep Learning / LSTM", "value": 85 },
+    { "label": "Machine Learning",   "value": 84 },
+    { "label": "LLMs & Gemini",     "value": 82 },
+    { "label": "Data Analysis",     "value": 80 },
+    { "label": "Web Development",   "value": 75 }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos for IshaShah04",
+  "projects": [
+    {
+      "repo": "AI-Powered-Email-Outreach-Automation",
+      "description": "AI email outreach workflow with Google Gemini, n8n, and confidence-based review gates."
+    },
+    {
+      "repo": "INBREAST_Project",
+      "description": "Lesion-aware mammography cancer detection model trained on INBreast dataset using deep learning."
+    },
+    {
+      "repo": "STock-market-prediction-using-LSTM",
+      "description": "Deep learning LSTM time-series forecasting architecture for stock market trend prediction."
+    },
+    {
+      "repo": "ai-business-analyst",
+      "description": "Automated data analysis and business intelligence reporting powered by LLMs and Python."
+    }
+  ]
+}
