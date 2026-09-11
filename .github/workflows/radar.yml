@@ -61,5 +61,6 @@ jobs:
           git add assets/radar-*.svg assets/card-*.svg
           if ! git diff --staged --quiet; then
             git commit -m "chore: refresh charts and cards"
+            git pull --rebase origin main
             git push
           fi
